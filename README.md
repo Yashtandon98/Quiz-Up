@@ -1,6 +1,6 @@
-# quizz
+# Quiz-Up
 
-A new Flutter project.
+A basic true and false App made using Flutter.
 
 ## Getting Started
 
